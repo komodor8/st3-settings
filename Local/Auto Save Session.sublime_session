@@ -14,7 +14,7 @@
 		"/Users/faridlkhaldouni/Downloads/html5up-massively"
 	],
 	"last_version": 3143,
-	"last_window_id": 187,
+	"last_window_id": 188,
 	"log_indexing": false,
 	"settings":
 	{
@@ -448,7 +448,7 @@
 			{
 			}
 		},
-		"new_window_width": 1865.0
+		"new_window_width": 1170.0
 	},
 	"windows":
 	[
@@ -1397,7 +1397,7 @@
 								],
 								"settings":
 								{
-									"edit_settings_other_view_id": 51,
+									"edit_settings_other_view_id": 70,
 									"edit_settings_view": "base",
 									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 								},
@@ -1427,17 +1427,17 @@
 								"selection":
 								[
 									[
-										45,
-										145
+										3,
+										3
 									]
 								],
 								"settings":
 								{
-									"edit_settings_other_view_id": 50,
+									"edit_settings_other_view_id": 69,
 									"edit_settings_view": "user",
 									"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 								},
-								"translation.x": 0.0,
+								"translation.x": 32.0,
 								"translation.y": 0.0,
 								"zoom_level": 1.0
 							},
@@ -1490,7 +1490,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0 0 4 1280 773 0 0 1280 777 ",
+			"position": "0 110 0 1170 777 0 0 1280 777 ",
 			"project": "",
 			"replace":
 			{
@@ -1537,7 +1537,7 @@
 			"template_settings":
 			{
 			},
-			"window_id": 187,
+			"window_id": 188,
 			"workspace_name": ""
 		}
 	],
