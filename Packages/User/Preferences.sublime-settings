@@ -1,0 +1,12 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"auto_complete_with_fields": true,
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"CSS",
+		"Vintage"
+	],
+	"trailing_spaces_include_current_line": false,
+	"trim_trailing_white_space_on_save": true
+}

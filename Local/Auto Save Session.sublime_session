@@ -1,0 +1,1768 @@
+{
+	"folder_history":
+	[
+		"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle",
+		"/Users/faridlkhaldouni/Sites/farid/react-native-modal-dropdown-master",
+		"/Users/faridlkhaldouni/Sites/farid/sentinelle",
+		"/Users/faridlkhaldouni/Sites/farid/sentinelle_farid/Sentinelle",
+		"/Users/faridlkhaldouni/Downloads/dotfiles-master",
+		"/Users/faridlkhaldouni/Sites/farid/sentinelle_original_martin/Sentinelle",
+		"/Users/faridlkhaldouni/Sites/farid/sentinelle_original_martin",
+		"/Users/faridlkhaldouni/Sites/farid/react-native-datepicker-master",
+		"/Users/faridlkhaldouni/Sites/farid/mailing-project",
+		"/Users/faridlkhaldouni/Sites/farid/sentinelle_martin",
+		"/Users/faridlkhaldouni/Downloads/html5up-massively"
+	],
+	"last_version": 3143,
+	"last_window_id": 179,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 751.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"flex",
+						"flexDirection"
+					],
+					[
+						"al",
+						"alignSelf"
+					],
+					[
+						"alig",
+						"alignItems"
+					],
+					[
+						"fl",
+						"flex-end"
+					],
+					[
+						"f",
+						"flexDirection"
+					],
+					[
+						"margi",
+						"marginBottom"
+					],
+					[
+						"margin",
+						"marginVertical"
+					],
+					[
+						"border",
+						"borderBottomWidth"
+					],
+					[
+						"Fle",
+						"flex"
+					],
+					[
+						"wi",
+						"window"
+					],
+					[
+						"font",
+						"fontWeight"
+					],
+					[
+						"O",
+						"Octicons"
+					],
+					[
+						"Docu",
+						"Documentation"
+					],
+					[
+						"a",
+						"alignSelf"
+					],
+					[
+						"br",
+						"borderWidth"
+					],
+					[
+						"align",
+						"alignSelf"
+					],
+					[
+						"padd",
+						"paddingTop"
+					],
+					[
+						"bor",
+						"borderColor"
+					],
+					[
+						"fle",
+						"flex-start"
+					],
+					[
+						"gr",
+						"groupsButton"
+					],
+					[
+						"W",
+						"window"
+					],
+					[
+						"marg",
+						"marginBottom"
+					],
+					[
+						"Touchabe",
+						"TouchableHighlight"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"col",
+						"column"
+					],
+					[
+						"M",
+						"ModalPicker"
+					],
+					[
+						"modal",
+						"ModalPicker"
+					],
+					[
+						"b",
+						"backgroundColor"
+					],
+					[
+						"w",
+						"window"
+					],
+					[
+						"tex",
+						"textAlign"
+					],
+					[
+						"Flex",
+						"flex-start"
+					],
+					[
+						"ma",
+						"marginTop"
+					],
+					[
+						"co",
+						"column"
+					],
+					[
+						"main",
+						"mainStyles"
+					],
+					[
+						"colo",
+						"color"
+					],
+					[
+						"im",
+						"images"
+					],
+					[
+						"self",
+						"alignSelf"
+					],
+					[
+						"mar",
+						"marginBottom"
+					],
+					[
+						"background",
+						"backgroundColor"
+					],
+					[
+						"v",
+						"View"
+					],
+					[
+						"backgroun",
+						"backgroundColor"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 59.0,
+				"last_filter": "Package Control: Disable Package",
+				"selected_items":
+				[
+					[
+						"Package Control: Disable Package",
+						"Package Control: Disable Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"package c",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 444.0
+			},
+			"console":
+			{
+				"height": 167.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/faridlkhaldouni/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+				"/Users/faridlkhaldouni/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Documents/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Documents/Documents.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Documents/index.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/DrawerMenu/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/DrawerMenu/DrawerMenu.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Horaires/Horaires.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/config/main.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/PdfViewerDoc/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/PdfViewerDoc/PdfViewerDoc.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Convention/Convention.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/config/images.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Documents/DocumentsContainer.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/BatchedBridge/MessageQueue.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Donnees/Donnees.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ModalExportData/ModalExportData.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Messages/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Horaires/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/packager/react-packager/src/Resolver/polyfills/require.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/packager/react-packager/src/Resolver/polyfills/polyfills.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Messages/Messages.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Text/Text.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/config/routes.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Renderer/src/renderers/shared/stack/reconciler/ReactReconciler.js",
+				"/Users/faridlkhaldouni/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ModalExportData/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/config/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Renderer/src/renderers/shared/stack/reconciler/ReactCompositeComponent.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Create4/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native-simple-radio-button/lib/SimpleRadioButton.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/SignIn/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/SignIn/SignIn.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Create4/Create4.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Create3/Create3.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/images/checklist.png",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native-datepicker/index.js",
+				"/Users/faridlkhaldouni/Downloads/checklist copie.png",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Convention/ConventionContainer.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDistancesArchive/ListDistancesArchive.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Create5/Create5.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/package.json",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/package-lock.json",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/Sentinelle/app/routes/Donnees/Donnees.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Actualite/Actualite.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Animated/src/AnimatedImplementation.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ModalParametresData/ModalParametresData.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native-vector-icons/lib/create-icon-set.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Convention/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Donnees/DonneesContainer.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/android/app/build.gradle",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Renderer/src/renderers/native/ReactNativeBaseComponent.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native-multiple-select-list/multipleSelect.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Components/Touchable/TouchableHighlight.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Components/Picker/Picker.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Create3/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native-select-multiple/src/SelectMultiple.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/CustomComponents/ListView/ListView.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDepensesDetails/ListDepensesDetails.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Donnees/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDistancesDetails/ListDistancesDetails.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDepensesArchive/ListDepensesArchive.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/PdfViewer/PdfViewer.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/PdfViewer/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDistancesArchive/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDistancesDetails/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDepensesDetails/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ModalParametresData/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/android/local.properties",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDepensesArchive/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListHeuresArchive/ListHeuresArchive.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/main.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/Button/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/SignIn/SignInContainer.js",
+				"/Users/faridlkhaldouni/Desktop/belvedere/Sentinelle maquette/calendar.png",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/Button/Button.js",
+				"/Users/faridlkhaldouni/Desktop/belvedere/Sentinelle maquette/calendar_2.png",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Components/Button.js",
+				"/Users/faridlkhaldouni/.bash_prompt",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle_original_martin/Sentinelle/app/routes/SignIn/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/ReactNative/requireNativeComponent.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/ReactNative/verifyPropTypes.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native-meteor/src/components/createContainer.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Components/TextInput/TextInput.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/README.md",
+				"/Users/faridlkhaldouni/.bash_profile",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle_martin/Sentinelle/android/local.properties",
+				"/Users/faridlkhaldouni/Sites/farid/mailing-project/src/components/Dashboard/CreateCampagne.js",
+				"/Users/faridlkhaldouni/Sites/farid/GeoQuizz/moulinette.py",
+				"/Users/faridlkhaldouni/Sites/farid/wordpress/wp-config.php",
+				"/etc/apache2/extra/httpd-vhosts.conf",
+				"/Applications/MAMP/db/mysql56/auto.cnf",
+				"/Users/faridlkhaldouni/Sites/farid/wordpress/wp-content/themes/chefenfant/footer.php",
+				"/Users/faridlkhaldouni/Sites/farid/wordpress/wp-content/themes/chef/index.php",
+				"/Users/faridlkhaldouni/Sites/farid/wordpress/wp-content/themes/chef/README.md",
+				"/Users/faridlkhaldouni/Sites/farid/wordpress/wp-config-sample.php",
+				"/etc/hosts",
+				"/usr/local/etc/dnsmasq.conf",
+				"/etc/apache2/extra/httpd-ssl.conf",
+				"/private/etc/apache2/extra/httpd-vhosts.conf",
+				"/Users/faridlkhaldouni/Sites/sites/client2/testClient2.html",
+				"/Users/faridlkhaldouni/Sites/farid/index.html",
+				"/Users/faridlkhaldouni/Sites/sites/index.html",
+				"/private/etc/resolver/dev",
+				"/etc/apache2/httpd.conf",
+				"/private/etc/apache2/users/faridlkhaldouni.conf",
+				"/private/etc/apache2/httpd.conf",
+				"/private/etc/apache2/extra/httpd-mpm.conf",
+				"/Users/faridlkhaldouni/Desktop/setdocroot.php",
+				"/Users/faridlkhaldouni/Desktop/index.html",
+				"/Users/faridlkhaldouni/Desktop/nginx.conf",
+				"/Users/faridlkhaldouni/Desktop/homebrew.mxcl.nginx.plist",
+				"/Users/faridlkhaldouni/Desktop/default.conf",
+				"/Users/faridlkhaldouni/Desktop/default-ssl.conf",
+				"/Users/faridlkhaldouni/vi",
+				"/Users/faridlkhaldouni/Desktop/setdocroot.php .php",
+				"/etc/apache2/extra/httpd-userdir.conf"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 152.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1280.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"flex",
+						"flexDirection"
+					],
+					[
+						"al",
+						"alignSelf"
+					],
+					[
+						"alig",
+						"alignItems"
+					],
+					[
+						"fl",
+						"flex-end"
+					],
+					[
+						"f",
+						"flexDirection"
+					],
+					[
+						"margi",
+						"marginBottom"
+					],
+					[
+						"margin",
+						"marginVertical"
+					],
+					[
+						"border",
+						"borderBottomWidth"
+					],
+					[
+						"Fle",
+						"flex"
+					],
+					[
+						"wi",
+						"window"
+					],
+					[
+						"font",
+						"fontWeight"
+					],
+					[
+						"O",
+						"Octicons"
+					],
+					[
+						"Docu",
+						"Documentation"
+					],
+					[
+						"a",
+						"alignSelf"
+					],
+					[
+						"br",
+						"borderWidth"
+					],
+					[
+						"align",
+						"alignSelf"
+					],
+					[
+						"padd",
+						"paddingTop"
+					],
+					[
+						"bor",
+						"borderColor"
+					],
+					[
+						"fle",
+						"flex-start"
+					],
+					[
+						"gr",
+						"groupsButton"
+					],
+					[
+						"W",
+						"window"
+					],
+					[
+						"marg",
+						"marginBottom"
+					],
+					[
+						"Touchabe",
+						"TouchableHighlight"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"col",
+						"column"
+					],
+					[
+						"M",
+						"ModalPicker"
+					],
+					[
+						"modal",
+						"ModalPicker"
+					],
+					[
+						"b",
+						"backgroundColor"
+					],
+					[
+						"w",
+						"window"
+					],
+					[
+						"tex",
+						"textAlign"
+					],
+					[
+						"Flex",
+						"flex-start"
+					],
+					[
+						"ma",
+						"marginTop"
+					],
+					[
+						"co",
+						"column"
+					],
+					[
+						"main",
+						"mainStyles"
+					],
+					[
+						"colo",
+						"color"
+					],
+					[
+						"im",
+						"images"
+					],
+					[
+						"self",
+						"alignSelf"
+					],
+					[
+						"mar",
+						"marginBottom"
+					],
+					[
+						"background",
+						"backgroundColor"
+					],
+					[
+						"v",
+						"View"
+					],
+					[
+						"backgroun",
+						"backgroundColor"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Messages/styles.js",
+					"settings":
+					{
+						"buffer_size": 4664,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "package c",
+				"selected_items":
+				[
+					[
+						"package c",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 392.0
+			},
+			"console":
+			{
+				"height": 167.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Documents/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Documents/Documents.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Documents/index.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/DrawerMenu/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/DrawerMenu/DrawerMenu.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Horaires/Horaires.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/config/main.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/PdfViewerDoc/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/PdfViewerDoc/PdfViewerDoc.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Convention/Convention.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/config/images.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Documents/DocumentsContainer.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/BatchedBridge/MessageQueue.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Donnees/Donnees.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ModalExportData/ModalExportData.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Messages/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Horaires/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/packager/react-packager/src/Resolver/polyfills/require.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/packager/react-packager/src/Resolver/polyfills/polyfills.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Messages/Messages.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Text/Text.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/config/routes.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Renderer/src/renderers/shared/stack/reconciler/ReactReconciler.js",
+				"/Users/faridlkhaldouni/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ModalExportData/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/config/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Renderer/src/renderers/shared/stack/reconciler/ReactCompositeComponent.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Create4/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native-simple-radio-button/lib/SimpleRadioButton.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/SignIn/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/SignIn/SignIn.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Create4/Create4.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Create3/Create3.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/images/checklist.png",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native-datepicker/index.js",
+				"/Users/faridlkhaldouni/Downloads/checklist copie.png",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Convention/ConventionContainer.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDistancesArchive/ListDistancesArchive.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Create5/Create5.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/package.json",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/package-lock.json",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/Sentinelle/app/routes/Donnees/Donnees.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Actualite/Actualite.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Animated/src/AnimatedImplementation.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ModalParametresData/ModalParametresData.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native-vector-icons/lib/create-icon-set.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Convention/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Donnees/DonneesContainer.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/android/app/build.gradle",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Renderer/src/renderers/native/ReactNativeBaseComponent.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native-multiple-select-list/multipleSelect.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Components/Touchable/TouchableHighlight.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Components/Picker/Picker.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Create3/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native-select-multiple/src/SelectMultiple.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/CustomComponents/ListView/ListView.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDepensesDetails/ListDepensesDetails.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Donnees/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDistancesDetails/ListDistancesDetails.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDepensesArchive/ListDepensesArchive.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/PdfViewer/PdfViewer.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/PdfViewer/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDistancesArchive/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDistancesDetails/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDepensesDetails/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ModalParametresData/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/android/local.properties",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDepensesArchive/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListHeuresArchive/ListHeuresArchive.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/main.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/Button/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/SignIn/SignInContainer.js",
+				"/Users/faridlkhaldouni/Desktop/belvedere/Sentinelle maquette/calendar.png",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/Button/Button.js",
+				"/Users/faridlkhaldouni/Desktop/belvedere/Sentinelle maquette/calendar_2.png",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Components/Button.js",
+				"/Users/faridlkhaldouni/.bash_prompt",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle_original_martin/Sentinelle/app/routes/SignIn/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/ReactNative/requireNativeComponent.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/ReactNative/verifyPropTypes.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native-meteor/src/components/createContainer.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Components/TextInput/TextInput.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/README.md",
+				"/Users/faridlkhaldouni/.bash_profile",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle_martin/Sentinelle/android/local.properties",
+				"/Users/faridlkhaldouni/Sites/farid/mailing-project/src/components/Dashboard/CreateCampagne.js",
+				"/Users/faridlkhaldouni/Sites/farid/GeoQuizz/moulinette.py",
+				"/Users/faridlkhaldouni/Sites/farid/wordpress/wp-config.php",
+				"/etc/apache2/extra/httpd-vhosts.conf",
+				"/Applications/MAMP/db/mysql56/auto.cnf",
+				"/Users/faridlkhaldouni/Sites/farid/wordpress/wp-content/themes/chefenfant/footer.php",
+				"/Users/faridlkhaldouni/Sites/farid/wordpress/wp-content/themes/chef/index.php",
+				"/Users/faridlkhaldouni/Sites/farid/wordpress/wp-content/themes/chef/README.md",
+				"/Users/faridlkhaldouni/Sites/farid/wordpress/wp-config-sample.php",
+				"/etc/hosts",
+				"/usr/local/etc/dnsmasq.conf",
+				"/etc/apache2/extra/httpd-ssl.conf",
+				"/private/etc/apache2/extra/httpd-vhosts.conf",
+				"/Users/faridlkhaldouni/Sites/sites/client2/testClient2.html",
+				"/Users/faridlkhaldouni/Sites/farid/index.html",
+				"/Users/faridlkhaldouni/Sites/sites/index.html",
+				"/private/etc/resolver/dev",
+				"/etc/apache2/httpd.conf",
+				"/private/etc/apache2/users/faridlkhaldouni.conf",
+				"/private/etc/apache2/httpd.conf",
+				"/private/etc/apache2/extra/httpd-mpm.conf",
+				"/Users/faridlkhaldouni/Desktop/setdocroot.php",
+				"/Users/faridlkhaldouni/Desktop/index.html",
+				"/Users/faridlkhaldouni/Desktop/nginx.conf",
+				"/Users/faridlkhaldouni/Desktop/homebrew.mxcl.nginx.plist",
+				"/Users/faridlkhaldouni/Desktop/default.conf",
+				"/Users/faridlkhaldouni/Desktop/default-ssl.conf",
+				"/Users/faridlkhaldouni/vi",
+				"/Users/faridlkhaldouni/Desktop/setdocroot.php .php",
+				"/etc/apache2/extra/httpd-userdir.conf"
+			],
+			"find":
+			{
+				"height": 25.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"16",
+					"favoris",
+					"Text",
+					"black",
+					"gray",
+					"Gray",
+					"LightGray",
+					"map",
+					"key",
+					"chevron",
+					"docList",
+					"Convention",
+					"Con",
+					"folderRow",
+					"conventifolderRowon",
+					"convention",
+					"',\n",
+					"\n\t\t",
+					"docList",
+					"images",
+					"image",
+					"Icon",
+					"searchFile",
+					"Icon",
+					"Icon.Button",
+					"touchInput",
+					"Input",
+					"searchIconDocLayout",
+					"rechercher",
+					"\n        ",
+					"11",
+					"bottomNavText",
+					"avertissement",
+					"chevronLeft",
+					"messageElementLayout",
+					"bottomNav2Button",
+					"bottomNavTextColor",
+					"bottomNav4Button",
+					"bottomNavDonnees",
+					"modalSection",
+					"annee",
+					"seePdfSectionIconBig",
+					"closeModalButtonText",
+					"topNavHomePage",
+					"blueCharte",
+					"syndicat",
+					"blurView",
+					"parametresSectionsText",
+					"fonction",
+					"temps",
+					"avertissementText",
+					"groupsDayTextDay",
+					"IconDocLayout",
+					"documentation",
+					"setting",
+					"left",
+					"topna",
+					"drawerOp",
+					"drawOp",
+					"blur",
+					"modal",
+					"TouchableOpacity",
+					"middleLayout",
+					"right",
+					"conf",
+					"confli",
+					"confl",
+					"call",
+					"large",
+					"drawer",
+					"écrire",
+					"ecrire",
+					"ecrire un mesage",
+					"messageForm",
+					"rightSettingIcon",
+					"Left",
+					"groupsDayTextRight",
+					"fakeInputText",
+					"touch",
+					"fakeInput2",
+					"fake",
+					"group",
+					"touch",
+					"styles.youtube",
+					"youtube\n",
+					"styles.youtube\n",
+					">\n",
+					"seeActModalDateLayout",
+					"source",
+					"            />",
+					"top",
+					"topNav",
+					"topnav",
+					"seeActSectionImgWrap",
+					"seeActSectionWrap",
+					"dynStyles",
+					"nativeBanner",
+					"actualite",
+					"actualité",
+					"black",
+					"topNavHomePage",
+					"Auncun",
+					"topnav",
+					"top",
+					"ok",
+					"OK",
+					"picker",
+					"heuresTravailleesBox",
+					"timeInput",
+					"seePdfSectionText",
+					"setDateEmbaucheVisible",
+					"openDateEmbauchePopover",
+					"DatePicker",
+					"openDateEmbauche",
+					"setDateEmbaucheVisible",
+					"openDateEmbauchePopover",
+					"styles",
+					"TouchableOpacity",
+					"TouchableHighlight",
+					"exportAnneeVisible",
+					"DatePicker",
+					"ModalPicker",
+					"TouchableOpacity",
+					"TouchableHighlight",
+					"View",
+					"DateTimePicker",
+					"datetime",
+					"getTime"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"ANNÊÊÊ"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Messages/styles.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 4664,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										3258,
+										3258
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 3607.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 0 4 1280 773 0 0 1280 777 ",
+			"project": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 152.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 176,
+			"workspace_name": ""
+		},
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"flex",
+						"flexDirection"
+					],
+					[
+						"al",
+						"alignSelf"
+					],
+					[
+						"alig",
+						"alignItems"
+					],
+					[
+						"fl",
+						"flex-end"
+					],
+					[
+						"f",
+						"flexDirection"
+					],
+					[
+						"margi",
+						"marginBottom"
+					],
+					[
+						"margin",
+						"marginVertical"
+					],
+					[
+						"border",
+						"borderBottomWidth"
+					],
+					[
+						"Fle",
+						"flex"
+					],
+					[
+						"wi",
+						"window"
+					],
+					[
+						"font",
+						"fontWeight"
+					],
+					[
+						"O",
+						"Octicons"
+					],
+					[
+						"Docu",
+						"Documentation"
+					],
+					[
+						"a",
+						"alignSelf"
+					],
+					[
+						"br",
+						"borderWidth"
+					],
+					[
+						"align",
+						"alignSelf"
+					],
+					[
+						"padd",
+						"paddingTop"
+					],
+					[
+						"bor",
+						"borderColor"
+					],
+					[
+						"fle",
+						"flex-start"
+					],
+					[
+						"gr",
+						"groupsButton"
+					],
+					[
+						"W",
+						"window"
+					],
+					[
+						"marg",
+						"marginBottom"
+					],
+					[
+						"Touchabe",
+						"TouchableHighlight"
+					],
+					[
+						"fun",
+						"function"
+					],
+					[
+						"col",
+						"column"
+					],
+					[
+						"M",
+						"ModalPicker"
+					],
+					[
+						"modal",
+						"ModalPicker"
+					],
+					[
+						"b",
+						"backgroundColor"
+					],
+					[
+						"w",
+						"window"
+					],
+					[
+						"tex",
+						"textAlign"
+					],
+					[
+						"Flex",
+						"flex-start"
+					],
+					[
+						"ma",
+						"marginTop"
+					],
+					[
+						"co",
+						"column"
+					],
+					[
+						"main",
+						"mainStyles"
+					],
+					[
+						"colo",
+						"color"
+					],
+					[
+						"im",
+						"images"
+					],
+					[
+						"self",
+						"alignSelf"
+					],
+					[
+						"mar",
+						"marginBottom"
+					],
+					[
+						"background",
+						"backgroundColor"
+					],
+					[
+						"v",
+						"View"
+					],
+					[
+						"backgroun",
+						"backgroundColor"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Messages/Messages.js",
+					"settings":
+					{
+						"buffer_size": 25669,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/Users/faridlkhaldouni/Desktop/.gitignore",
+					"settings":
+					{
+						"buffer_size": 408,
+						"encoding": "UTF-8",
+						"line_ending": "Unix",
+						"name": "# Tout ignorer sauf le fichier .gitignore"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 119.0,
+				"last_filter": "Package Control: install",
+				"selected_items":
+				[
+					[
+						"Package Control: install",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: Disable Package",
+						"Package Control: Disable Package"
+					],
+					[
+						"install package",
+						"Package Control: Install Package"
+					],
+					[
+						"package c",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 444.0
+			},
+			"console":
+			{
+				"height": 167.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+					"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Messages"
+			],
+			"file_history":
+			[
+				"/Users/faridlkhaldouni/Library/Application Support/Sublime Text 3/Packages/User/ColorPicker.sublime-settings",
+				"/Users/faridlkhaldouni/Library/Application Support/Sublime Text 3/Packages/ColorPicker/ColorPicker.sublime-settings",
+				"/Users/faridlkhaldouni/Library/Application Support/Sublime Text 3/Packages/User/Emmet.sublime-settings",
+				"/Users/faridlkhaldouni/Library/Application Support/Sublime Text 3/Packages/Babel/Babel.sublime-settings",
+				"/Users/faridlkhaldouni/Library/Application Support/Sublime Text 3/Packages/Emmet/Emmet.sublime-settings",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Documents/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Documents/Documents.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Documents/index.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/DrawerMenu/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/DrawerMenu/DrawerMenu.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Horaires/Horaires.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/config/main.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/PdfViewerDoc/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/PdfViewerDoc/PdfViewerDoc.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Convention/Convention.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/config/images.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Documents/DocumentsContainer.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/BatchedBridge/MessageQueue.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Donnees/Donnees.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ModalExportData/ModalExportData.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Messages/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Horaires/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/packager/react-packager/src/Resolver/polyfills/require.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/packager/react-packager/src/Resolver/polyfills/polyfills.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Messages/Messages.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Text/Text.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/config/routes.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Renderer/src/renderers/shared/stack/reconciler/ReactReconciler.js",
+				"/Users/faridlkhaldouni/Library/Application Support/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ModalExportData/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/config/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Renderer/src/renderers/shared/stack/reconciler/ReactCompositeComponent.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Create4/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native-simple-radio-button/lib/SimpleRadioButton.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/SignIn/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/SignIn/SignIn.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Create4/Create4.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Create3/Create3.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/images/checklist.png",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native-datepicker/index.js",
+				"/Users/faridlkhaldouni/Downloads/checklist copie.png",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Convention/ConventionContainer.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDistancesArchive/ListDistancesArchive.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Create5/Create5.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/package.json",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/package-lock.json",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/Sentinelle/app/routes/Donnees/Donnees.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Actualite/Actualite.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Animated/src/AnimatedImplementation.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ModalParametresData/ModalParametresData.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native-vector-icons/lib/create-icon-set.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Convention/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Donnees/DonneesContainer.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/android/app/build.gradle",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Renderer/src/renderers/native/ReactNativeBaseComponent.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native-multiple-select-list/multipleSelect.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Components/Touchable/TouchableHighlight.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Components/Picker/Picker.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Create3/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native-select-multiple/src/SelectMultiple.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/CustomComponents/ListView/ListView.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDepensesDetails/ListDepensesDetails.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Donnees/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDistancesDetails/ListDistancesDetails.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDepensesArchive/ListDepensesArchive.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/PdfViewer/PdfViewer.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/PdfViewer/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDistancesArchive/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDistancesDetails/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDepensesDetails/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ModalParametresData/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/android/local.properties",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListDepensesArchive/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/ListHeuresArchive/ListHeuresArchive.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/main.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/Button/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/SignIn/SignInContainer.js",
+				"/Users/faridlkhaldouni/Desktop/belvedere/Sentinelle maquette/calendar.png",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/components/Button/Button.js",
+				"/Users/faridlkhaldouni/Desktop/belvedere/Sentinelle maquette/calendar_2.png",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Components/Button.js",
+				"/Users/faridlkhaldouni/.bash_prompt",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle_original_martin/Sentinelle/app/routes/SignIn/styles.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/ReactNative/requireNativeComponent.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/ReactNative/verifyPropTypes.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native-meteor/src/components/createContainer.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/node_modules/react-native/Libraries/Components/TextInput/TextInput.js",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle/README.md",
+				"/Users/faridlkhaldouni/.bash_profile",
+				"/Users/faridlkhaldouni/Sites/farid/sentinelle_martin/Sentinelle/android/local.properties",
+				"/Users/faridlkhaldouni/Sites/farid/mailing-project/src/components/Dashboard/CreateCampagne.js",
+				"/Users/faridlkhaldouni/Sites/farid/GeoQuizz/moulinette.py",
+				"/Users/faridlkhaldouni/Sites/farid/wordpress/wp-config.php",
+				"/etc/apache2/extra/httpd-vhosts.conf",
+				"/Applications/MAMP/db/mysql56/auto.cnf",
+				"/Users/faridlkhaldouni/Sites/farid/wordpress/wp-content/themes/chefenfant/footer.php",
+				"/Users/faridlkhaldouni/Sites/farid/wordpress/wp-content/themes/chef/index.php",
+				"/Users/faridlkhaldouni/Sites/farid/wordpress/wp-content/themes/chef/README.md",
+				"/Users/faridlkhaldouni/Sites/farid/wordpress/wp-config-sample.php",
+				"/etc/hosts",
+				"/usr/local/etc/dnsmasq.conf",
+				"/etc/apache2/extra/httpd-ssl.conf",
+				"/private/etc/apache2/extra/httpd-vhosts.conf",
+				"/Users/faridlkhaldouni/Sites/sites/client2/testClient2.html",
+				"/Users/faridlkhaldouni/Sites/farid/index.html",
+				"/Users/faridlkhaldouni/Sites/sites/index.html",
+				"/private/etc/resolver/dev",
+				"/etc/apache2/httpd.conf",
+				"/private/etc/apache2/users/faridlkhaldouni.conf",
+				"/private/etc/apache2/httpd.conf",
+				"/private/etc/apache2/extra/httpd-mpm.conf",
+				"/Users/faridlkhaldouni/Desktop/setdocroot.php",
+				"/Users/faridlkhaldouni/Desktop/index.html",
+				"/Users/faridlkhaldouni/Desktop/nginx.conf",
+				"/Users/faridlkhaldouni/Desktop/homebrew.mxcl.nginx.plist",
+				"/Users/faridlkhaldouni/Desktop/default.conf",
+				"/Users/faridlkhaldouni/Desktop/default-ssl.conf",
+				"/Users/faridlkhaldouni/vi",
+				"/Users/faridlkhaldouni/Desktop/setdocroot.php .php",
+				"/etc/apache2/extra/httpd-userdir.conf"
+			],
+			"find":
+			{
+				"height": 39.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": true,
+				"find_history":
+				[
+					"completions",
+					"show_css_completions",
+					"16",
+					"favoris",
+					"Text",
+					"black",
+					"gray",
+					"Gray",
+					"LightGray",
+					"map",
+					"key",
+					"chevron",
+					"docList",
+					"Convention",
+					"Con",
+					"folderRow",
+					"conventifolderRowon",
+					"convention",
+					"',\n",
+					"\n\t\t",
+					"docList",
+					"images",
+					"image",
+					"Icon",
+					"searchFile",
+					"Icon",
+					"Icon.Button",
+					"touchInput",
+					"Input",
+					"searchIconDocLayout",
+					"rechercher",
+					"\n        ",
+					"11",
+					"bottomNavText",
+					"avertissement",
+					"chevronLeft",
+					"messageElementLayout",
+					"bottomNav2Button",
+					"bottomNavTextColor",
+					"bottomNav4Button",
+					"bottomNavDonnees",
+					"modalSection",
+					"annee",
+					"seePdfSectionIconBig",
+					"closeModalButtonText",
+					"topNavHomePage",
+					"blueCharte",
+					"syndicat",
+					"blurView",
+					"parametresSectionsText",
+					"fonction",
+					"temps",
+					"avertissementText",
+					"groupsDayTextDay",
+					"IconDocLayout",
+					"documentation",
+					"setting",
+					"left",
+					"topna",
+					"drawerOp",
+					"drawOp",
+					"blur",
+					"modal",
+					"TouchableOpacity",
+					"middleLayout",
+					"right",
+					"conf",
+					"confli",
+					"confl",
+					"call",
+					"large",
+					"drawer",
+					"écrire",
+					"ecrire",
+					"ecrire un mesage",
+					"messageForm",
+					"rightSettingIcon",
+					"Left",
+					"groupsDayTextRight",
+					"fakeInputText",
+					"touch",
+					"fakeInput2",
+					"fake",
+					"group",
+					"touch",
+					"styles.youtube",
+					"youtube\n",
+					"styles.youtube\n",
+					">\n",
+					"seeActModalDateLayout",
+					"source",
+					"            />",
+					"top",
+					"topNav",
+					"topnav",
+					"seeActSectionImgWrap",
+					"seeActSectionWrap",
+					"dynStyles",
+					"nativeBanner",
+					"actualite",
+					"actualité",
+					"black",
+					"topNavHomePage",
+					"Auncun",
+					"topnav",
+					"top",
+					"ok",
+					"OK",
+					"picker",
+					"heuresTravailleesBox",
+					"timeInput",
+					"seePdfSectionText",
+					"setDateEmbaucheVisible",
+					"openDateEmbauchePopover",
+					"DatePicker",
+					"openDateEmbauche",
+					"setDateEmbaucheVisible",
+					"openDateEmbauchePopover",
+					"styles",
+					"TouchableOpacity",
+					"TouchableHighlight",
+					"exportAnneeVisible",
+					"DatePicker",
+					"ModalPicker",
+					"TouchableOpacity",
+					"TouchableHighlight",
+					"View",
+					"DateTimePicker"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"ANNÊÊÊ"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": false
+			},
+			"folders":
+			[
+				{
+					"path": "/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/Users/faridlkhaldouni/Sites/farid/sentinelle/Sentinelle/app/routes/Messages/Messages.js",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 25669,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										10611,
+										10611
+									]
+								],
+								"settings":
+								{
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+									"syntax": "Packages/Babel/JavaScript (Babel).sublime-syntax",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": false,
+									"word_wrap": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/Users/faridlkhaldouni/Desktop/.gitignore",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 408,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										408,
+										408
+									]
+								],
+								"settings":
+								{
+									"auto_name": "# Tout ignorer sauf le fichier .gitignore",
+									"color_scheme": "Packages/User/Color Highlighter/themes/Monokai.tmTheme",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 25.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0 1370 -193 1280 932 1280 -280 1920 1057 ",
+			"project": "",
+			"replace":
+			{
+				"height": 46.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 152.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 169,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

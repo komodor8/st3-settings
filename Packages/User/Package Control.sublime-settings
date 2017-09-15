@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Babel",
+		"Color Highlighter",
+		"ColorPicker",
+		"CSS3",
+		"Emmet",
+		"Package Control",
+		"SCSS"
+	]
+}
