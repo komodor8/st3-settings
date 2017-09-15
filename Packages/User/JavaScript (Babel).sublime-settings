@@ -1,7 +1,9 @@
 {
+	"color_scheme": "Packages/Agila Theme/Agila Oceanic Next.tmTheme",
 	"extensions":
 	[
-		"js",
-		"Layout"
-	]
+		"Layout",
+		"js"
+	],
+	"theme": "Agila.sublime-theme"
 }
