@@ -5,15 +5,19 @@
 	],
 	"installed_packages":
 	[
-		"Agila Theme",
-		"Alignment",
-		"All Autocomplete",
+		"A File Icon",
 		"Babel",
-		"Color Highlighter",
-		"ColorPicker",
-		"CSS3",
+		"Babel Snippets",
+		"DocBlockr",
 		"Emmet",
+		"JSLint",
+		"Material Theme",
 		"Package Control",
-		"SCSS"
+		"Phpcs",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"sublimelint",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint"
 	]
 }
